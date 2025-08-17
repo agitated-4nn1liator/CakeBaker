@@ -1,4 +1,4 @@
-package com.AliceAndHerBakery.CakeBaker.advices;
+package com.Bakery.CakeBaker.advices;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

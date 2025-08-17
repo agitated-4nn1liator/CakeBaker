@@ -1,16 +1,13 @@
-package com.AliceAndHerBakery.CakeBaker.services;
+package com.Bakery.CakeBaker.services;
 
-import com.AliceAndHerBakery.CakeBaker.dtos.CakeDTO;
-import com.AliceAndHerBakery.CakeBaker.entities.CakeEntity;
-import com.AliceAndHerBakery.CakeBaker.exceptions.ResourceNotFound;
-import com.AliceAndHerBakery.CakeBaker.repositories.CakeRepository;
+import com.Bakery.CakeBaker.dtos.CakeDTO;
+import com.Bakery.CakeBaker.entities.CakeEntity;
+import com.Bakery.CakeBaker.exceptions.ResourceNotFound;
+import com.Bakery.CakeBaker.repositories.CakeRepository;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Service;
-import org.springframework.util.ReflectionUtils;
 
-import java.lang.reflect.Field;
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Collectors;
 

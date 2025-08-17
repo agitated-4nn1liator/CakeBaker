@@ -1,4 +1,4 @@
-package com.AliceAndHerBakery.CakeBaker.dtos;
+package com.Bakery.CakeBaker.dtos;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

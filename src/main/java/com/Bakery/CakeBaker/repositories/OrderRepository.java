@@ -1,6 +1,6 @@
-package com.AliceAndHerBakery.CakeBaker.repositories;
+package com.Bakery.CakeBaker.repositories;
 
-import com.AliceAndHerBakery.CakeBaker.entities.OrderEntity;
+import com.Bakery.CakeBaker.entities.OrderEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface OrderRepository extends JpaRepository<OrderEntity, Long> {

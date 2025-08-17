@@ -1,8 +1,8 @@
-package com.AliceAndHerBakery.CakeBaker.controllers;
+package com.Bakery.CakeBaker.controllers;
 
-import com.AliceAndHerBakery.CakeBaker.dtos.OrderDTO;
-import com.AliceAndHerBakery.CakeBaker.exceptions.ResourceNotFound;
-import com.AliceAndHerBakery.CakeBaker.services.OrderService;
+import com.Bakery.CakeBaker.dtos.OrderDTO;
+import com.Bakery.CakeBaker.exceptions.ResourceNotFound;
+import com.Bakery.CakeBaker.services.OrderService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

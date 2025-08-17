@@ -1,15 +1,14 @@
-package com.AliceAndHerBakery.CakeBaker.controllers;
+package com.Bakery.CakeBaker.controllers;
 
-import com.AliceAndHerBakery.CakeBaker.dtos.CakeDTO;
-import com.AliceAndHerBakery.CakeBaker.exceptions.ResourceNotFound;
-import com.AliceAndHerBakery.CakeBaker.services.CakeService;
+import com.Bakery.CakeBaker.dtos.CakeDTO;
+import com.Bakery.CakeBaker.exceptions.ResourceNotFound;
+import com.Bakery.CakeBaker.services.CakeService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
 
 @RestController

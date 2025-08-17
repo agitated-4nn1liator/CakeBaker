@@ -1,9 +1,9 @@
-package com.AliceAndHerBakery.CakeBaker.services;
+package com.Bakery.CakeBaker.services;
 
-import com.AliceAndHerBakery.CakeBaker.dtos.OrderDTO;
-import com.AliceAndHerBakery.CakeBaker.entities.OrderEntity;
-import com.AliceAndHerBakery.CakeBaker.exceptions.ResourceNotFound;
-import com.AliceAndHerBakery.CakeBaker.repositories.OrderRepository;
+import com.Bakery.CakeBaker.dtos.OrderDTO;
+import com.Bakery.CakeBaker.entities.OrderEntity;
+import com.Bakery.CakeBaker.exceptions.ResourceNotFound;
+import com.Bakery.CakeBaker.repositories.OrderRepository;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Service;
 

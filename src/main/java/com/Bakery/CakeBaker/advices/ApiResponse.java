@@ -1,4 +1,4 @@
-package com.AliceAndHerBakery.CakeBaker.advices;
+package com.Bakery.CakeBaker.advices;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;

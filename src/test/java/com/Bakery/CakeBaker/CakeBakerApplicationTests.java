@@ -1,4 +1,4 @@
-package com.AliceAndHerBakery.CakeBaker;
+package com.Bakery.CakeBaker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

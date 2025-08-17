@@ -1,4 +1,4 @@
-package com.AliceAndHerBakery.CakeBaker.entities;
+package com.Bakery.CakeBaker.entities;
 
 import jakarta.persistence.*;
 import lombok.Data;

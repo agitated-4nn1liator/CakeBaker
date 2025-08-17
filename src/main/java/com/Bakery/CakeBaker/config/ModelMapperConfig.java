@@ -1,4 +1,4 @@
-package com.AliceAndHerBakery.CakeBaker.config;
+package com.Bakery.CakeBaker.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
